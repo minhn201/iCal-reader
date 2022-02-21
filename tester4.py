@@ -1,14 +1,10 @@
 #!/usr/bin/env python3
 
-#
-# UVic SENG 265, Spring 2021, Assignment #4
-#
-# This test-driver program invokes methods on the class to be
-# completed for the assignment.
-#
-# The content of tester4.py must not be modified. It will be used
-# when evaluating your solution to process_cal4.py.
-#
+
+# This test-driver program invokes methods on process_cal4 to run the 
+# program 
+
+
 
 import sys
 import argparse
