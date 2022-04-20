@@ -16,7 +16,10 @@ void tmtok(int digit, int* hr, int* min){
 }
 
 // Check if the given hour is after 12:00 AM, and print the value in a different
-// format
+// format.
+// E.g. Input: hr = 13
+//             min = 30
+// Print output: " 1:30 PM"
 void formatted_time(int hr, int min){
     int hour[24] = {12,1,2,3,4,5,6,7,8,9,10,11,12,1,2,3,4,5,6,7,8,9,10,11};
     if(hr >= hour[12]){
