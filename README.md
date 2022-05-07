@@ -3,8 +3,7 @@
 **Summary**
 
 This program, written in Python, will input file in ics format to output a readable text of the given file. The program can be executed using a bash command in a Linux environment.
-
-There also a program written in C for the same purpose, althougth it use a different Bash command line.
+I also wrote a program written in C for the same purpose, althougth it use a different Bash command line.
 
 **What is an ics file?**
 
